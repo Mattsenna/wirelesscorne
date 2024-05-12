@@ -81,7 +81,7 @@
 // |      | BT 1| BT 2| BT 3| BT 4| BT 5|   | TAB | LFT |  DN |  UP | RGT |  `   |
 // | ALT  |DLEFT|DRGHT|PGDN |PLAY | MUTE|   |PRSCN| CAPS| VOLD| VOLU| PRV |  NXT |
 //                    | TOG |     | SPC |   | ENT |     | CTRL|
-                       display-name = "Adjust; 
+                       display-name = "Adjust"; 
                         bindings = <
    &bt  BT_CLR  &kp F1 &kp F2 &kp F3 &kp F4 &kp F5   &kp F6 &kp F7  &kp F8 &kp F9 &kp F10 &kp BSPC
    &kp LALT &bt BT_SEL 0   &bt BT_SEL 1 &bt BT_SEL 2   &bt BT_SEL 3   &bt BT_SEL 4      &kp TAB &kp LEFT &kp DOWN        &kp UP &kp RIGHT &kp GRAVE
